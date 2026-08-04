@@ -2,6 +2,8 @@
 
 Soporte de Windows y Office 365. Autonomos: se copian al equipo y funcionan. PowerShell 5.1 y 7.
 
+> Scripts de administracion de tenant y remediacion sueltos: **[Scripts-_-Powershell](https://github.com/4leX-42/Scripts-_-Powershell)**
+
 ## Permitir la ejecucion de scripts
 
 Si sale `la ejecucion de scripts esta deshabilitada en este sistema`:

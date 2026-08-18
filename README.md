@@ -1,3 +1,14 @@
+> # ARCHIVADO / ARCHIVED
+>
+> **ES —** Este repositorio ya no se mantiene. Su contenido esta reorganizado, revisado y
+> ampliado en **[Soporte-IT-PowerShell](https://github.com/4leX-42/Soporte-IT-PowerShell)**,
+> donde se busca por sintoma en vez de por nombre de fichero.
+>
+> **EN —** This repository is no longer maintained. Its content has been reorganised, reviewed
+> and extended in **[Soporte-IT-PowerShell](https://github.com/4leX-42/Soporte-IT-PowerShell)**,
+> where you search by symptom instead of by file name.
+
+---
 # Scripts-PowerShell-IT
 
 Soporte de Windows y Office 365. Autonomos: se copian al equipo y funcionan. PowerShell 5.1 y 7.
@@ -72,3 +83,4 @@ Comprobar con `$env:USERPROFILE`. Los scripts de cuentas lo detectan y abortan.
 ## Estandar
 
 Sin tildes · UTF-8 con BOM · 5.1 y 7 · `-DryRun` en lo que escribe · `param()`, nada cableado
+
